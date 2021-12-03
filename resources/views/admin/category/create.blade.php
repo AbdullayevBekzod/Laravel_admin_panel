@@ -34,7 +34,6 @@
                       <div class="card-body">
                         <div class="form-group">
                           <label for="exampleInputEmail1">Name of the Category</label>
-                          <label for="exampleInputEmail1">Address of the Category</label>
                           <input type="text" class="form-control" name="title" id="exampleInputEmail1" placeholder="Enter name of category..." required>
                         </div>
                         <div class="card-footer">
